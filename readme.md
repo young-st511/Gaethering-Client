@@ -2,7 +2,9 @@
 
 > 🥲 서버비용의 문제로 서버 배포가 중단되었습니다.
 
-<img width="400px" align=center src="./readme/Gaethering-Logo.png" >
+<div align=center>
+  <img width="400px" align=center src="./readme/Gaethering-Logo.png" >
+</div>
 
 ## 프로젝트 개요
 
